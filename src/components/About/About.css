@@ -1,3 +1,9 @@
 #navbar {
     background-color: chartreuse;
+    display: flex;
+}
+
+#navbar img {
+    width: 30%;
+    length: 30%;
 }
